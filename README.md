@@ -5,4 +5,4 @@ Developed as a part of the coursework for the module CST4055 Data Visualisation 
 
 I am not allowed to share the project or its details so only a sample dashboard is provided.
 
-![SAMPLE](dashboard.png)
+![SAMPLE](Dashboard.png)
